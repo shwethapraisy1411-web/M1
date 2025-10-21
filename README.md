@@ -11,9 +11,13 @@ Write a C program to read 3 characters one by one and print the characters in a 
 
 ## PROGRAM:
 
+<img width="776" height="277" alt="image" src="https://github.com/user-attachments/assets/f0129860-e622-4561-bf56-5240d882ca7a" />
+
+
 ## OUTPUT:
 
 
+<img width="438" height="209" alt="image" src="https://github.com/user-attachments/assets/99277bd3-60cf-4c13-9cac-67c0d2b0bee4" />
 
 
 
@@ -47,8 +51,11 @@ Write a C program to read A values and check whether A is positive number or not
 
 # PROGRAM:
 
+<img width="695" height="299" alt="image" src="https://github.com/user-attachments/assets/6cf93d26-e44d-4c83-9be3-733224c2b389" />
+
 # OUTPUT:
 
+<img width="439" height="204" alt="image" src="https://github.com/user-attachments/assets/ca281b78-56f2-43e5-bd43-9be7c6360fbb" />
 
 
 
@@ -81,8 +88,11 @@ Write a program to find minimum between two fraction numbers using conditional o
 
 ## PROGRAM:
 
+<img width="751" height="303" alt="image" src="https://github.com/user-attachments/assets/c93275ae-7274-4304-9c9a-bae964773ad1" />
+
 ## OUTPUT:
 
+<img width="576" height="93" alt="image" src="https://github.com/user-attachments/assets/abf3f78c-a715-4faf-bc90-9c08f39ddd15" />
 
 
 
@@ -112,8 +122,11 @@ Write a C program to check whether the input value is equal to 1 using simple if
 
 ## PROGRAM:
 
+<img width="673" height="278" alt="image" src="https://github.com/user-attachments/assets/76f472f3-c33e-4c55-99ca-99b5f40cd7bd" />
+
 ## OUTPUT:
 
+<img width="433" height="149" alt="image" src="https://github.com/user-attachments/assets/d83eb2a0-ad62-43a7-86a6-131a8f2a7020" />
 
 
 
@@ -148,7 +161,11 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 10.	End
 ## PROGRAM:
 
+<img width="584" height="638" alt="image" src="https://github.com/user-attachments/assets/f32bc2a5-c372-4a33-806f-b90ac34d59e7" />
+
 ## OUTPUT:
+
+<img width="376" height="195" alt="image" src="https://github.com/user-attachments/assets/505c74fc-785f-4b19-a8ce-6cf0bfc55ff7" />
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
